@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DriveAndRent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <driver>
+  <id>1</id>
+  <password>asd1234</password>
+  <name>tom</name>
+  <car_id>1</car_id>
+  <receipt>3000</receipt>
+ </driver>
+  <driver>
+  <id>2</id>
+  <password>asd1234</password>
+  <name>rob</name>
+  <car_id>2</car_id>
+  <receipt>4000</receipt>
+ </driver>
+  <driver>
+  <id>3</id>
+  <password>asd1234</password>
+  <name>Libai</name>
+  <car_id>3</car_id>
+  <receipt>4000</receipt>
+ </driver>
+  <driver>
+  <id>4</id>
+  <password>asd1234</password>
+  <name>Tomas</name>
+  <car_id>4</car_id>
+  <receipt>5000</receipt>
+ </driver>
+</DriveAndRent>

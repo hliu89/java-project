@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DriveAndRent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Car>
+		<car_id>1</car_id>
+		<car_type>SUV</car_type>
+		<car_seats>4</car_seats>
+		<per_hour>15</per_hour>
+		<per_week>200</per_week>
+	</Car>
+	<Car>
+		<car_id>2</car_id>
+		<car_type>Sedan</car_type>
+		<car_seats>3</car_seats>
+		<per_hour>12.5</per_hour>
+		<per_week>300</per_week>
+	</Car>
+	<Car>
+		<car_id>3</car_id>
+		<car_type>SUV</car_type>
+		<car_seats>4</car_seats>
+		<per_hour>15</per_hour>
+		<per_week>200</per_week>
+	</Car>
+	<Car>
+		<car_id>4</car_id>
+		<car_type>XL</car_type>
+		<car_seats>6</car_seats>
+		<per_hour>17.5</per_hour>
+		<per_week>400</per_week>
+	</Car>
+</DriveAndRent>

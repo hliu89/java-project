@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DriveAndRent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <customer>
+  <id>1</id>
+  <name>hongqiao</name>
+  <password>qwer123</password>
+ </customer>
+  <customer>
+  <id>2</id>
+  <name>John</name>
+  <password>qweraa123</password>
+ </customer>
+  <customer>
+  <id>3</id>
+  <name>Jack</name>
+  <password>qwer123</password>
+ </customer>
+  <customer>
+  <id>4</id>
+  <name>Liu</name>
+  <password>qwer1234</password>
+ </customer>
+</DriveAndRent>
