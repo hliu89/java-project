@@ -1,0 +1,29 @@
+Inner city region avg.income: 27752.87;
+Town region avg.income: 26802.19;
+SUBURBAN region avg.income28656.36;
+RURAL region avg.income30027.61;
+
+Inner city region min.income: 266222.8;
+Town region min.income: 59803.9;
+SUBURBAN region min.income63130.1;
+RURAL region min.income57398.1;
+
+Inner city region min.income: 6294.21;
+Town region min.income: 5014.21;
+SUBURBAN region min.income8143.75;
+RURAL region min.income8639.24;
+
+Inner city region females with mort & saveing acct 31;
+Town region females with mort & saveing acct: 27;
+SUBURBAN region females with mort & saveing acct: 4;
+RURAL region females with mort & saveing acct: 9;
+
+Inner city region males with car & 1 child: 15;
+Town region males with with car & 1 child: 7;
+SUBURBAN region males with car & 1 child: 3;
+RURAL region males with car & 1 child: 9
+
+------------------------------------------------------------------
+current Date and Time:2017/10/18 17:51
+Programmed by Hongqiao Liu
+
